@@ -37,11 +37,11 @@
 
 <h3 align="center">Deployment</h3>
 
-  - Heroku: [Click Here](https://github.com/RiZoeLX/SpamX/blob/main/resources/heroku.md)
+  - Heroku: [Click Here](https://github.com/ITACHI9264/SpamX/blob/main/resources/heroku.md)
   - Mogenius: [Click Here](https://youtu.be/6XIjTbumJYY)
   - Google Colab: [Click Here](https://youtu.be/sYgy4_8i7c8)
-  - VPS/Local hosting: [Click here](https://github.com/RiZoeLX/SpamX/blob/main/resources/local.md)
-  - Termux: [Click Here](https://github.com/RiZoeLX/SpamX/blob/main/resources/termux.md) `Some errors!`
+  - VPS/Local hosting: [Click here](https://github.com/ITACHI9264/SpamX/blob/main/resources/local.md)
+  - Termux: [Click Here](https://github.com/ITACHI9264/SpamX/blob/main/resources/termux.md) `Some errors!`
 
 ----
 
@@ -52,5 +52,5 @@ SpamX is licensed under [GNU Affero General Public License](https://www.gnu.org/
 
 <h3>Credits</h3>
 
-  - <b> [RiZoeL](https://github.com/MrRizoel) : Dev/creator of SpamX </b> 
+  - <b> [RiZoeL](https://github.com/ITACHI9264/SpamX) : Dev/creator of ITACHI </b> 
   - <b> [Pyrogram](https://github.com/pyrogram/pyrogram) : Python Library used in SpamX

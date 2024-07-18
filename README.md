@@ -52,5 +52,5 @@ SpamX is licensed under [GNU Affero General Public License](https://www.gnu.org/
 
 <h3>Credits</h3>
 
-  - <b> [RiZoeL](https://github.com/ITACHI9264/SpamX) : Dev/creator of ITACHI </b> 
+  - <b> [𝐈𝐓𝐀𝐂𝐇𝐈](https://github.com/ITACHI9264/SpamX) : Dev/creator of ITACHI </b> 
   - <b> [Pyrogram](https://github.com/pyrogram/pyrogram) : Python Library used in SpamX

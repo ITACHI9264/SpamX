@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="resources/RiZoeLX.png" alt="RiZoeLXSpam Logo">
+  <img src="https://graph.org/file/6d45bcba73ae40ebbbd23.jpg" alt="RiZoeLXSpam Logo">
 </p>
 <h6 align="center">
-  <b>• SᴘᴀᴍX Bʏ RɪZᴏᴇLX •</b>
+  <b>• ᴠᴇɢɪᴛᴏ ʙʏ ɪᴛᴀᴄʜɪ 🔥 •</b>
 </h6>
 
 ----
 
-<b> SpamX Is A Pyrogram Based Spam Bots For Telegram With Many Features </b>
+<b> Vegito Is A Pyrogram Based Spam Bots For Telegram With Many Features </b>
 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=RiZoeLX&repo=SpamX&theme=lite)
 
@@ -16,8 +16,8 @@
 ![Python](https://img.shields.io/badge/Python-v3.10-white?style=social&logo=python)
 ![GitHub language count](https://img.shields.io/github/languages/count/RiZoeLX/SpamX?&style=social&logo=hyper)
 
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-white?&style=social&logo=telegram)](https://t.me/RiZoeLXSupport)
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-white?&style=social&logo=telegram)](https://t.me/RiZoeL_X)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-white?&style=social&logo=telegram)](https://t.me/redzoneparadise)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-white?&style=social&logo=telegram)](https://t.me/redzoneparadise)
 
  - Requirements
    - [![PyPI - pyrogram](https://img.shields.io/badge/pypi-pyrogram-informational)](https://pypi.org/project/pyrogram)

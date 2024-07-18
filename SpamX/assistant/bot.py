@@ -79,7 +79,7 @@ async def reboot(_, message: Message):
     if await TheSpamX.sudo.sudoFilter(message, 1):
         return
     await message.reply(
-        "__Click below button to reboot the SpamX!__",
+        "__Click below button to reboot the Vegito!__",
         reply_markup=reboot_button,
     )
 
@@ -96,9 +96,9 @@ async def pinging(_, message: Message):
     end = datetime.datetime.now()
     ms = (end-start).microseconds / 1000
     try:
-        await pong_msg.edit_text(f"⌾ {TheSpamX.pingMsg} ⌾ \n\n ༝ ᴘɪɴɢ: `{ms}` ᴍs \n ༝ ᴠᴇʀsɪᴏɴ: `{TheSpamX.versions['SpamX']}`")
+        await pong_msg.edit_text(f"⌾ {TheSpamX.pingMsg} ⌾ \n\n ༝ ᴘɪɴɢ: `{ms}` ᴍs \n ༝ ᴠᴇʀsɪᴏɴ: `{TheSpamX.versions['╚»𝗖𝗿𝗲𝗮𝘁𝗼𝗿 𝐈𝐓𝐀𝐂𝐇𝐈«╝']}`")
     except:
-        await pong_msg.edit_text(f"⌾ {TheSpamX.pingMsg} ⌾ \n\n ༝ ᴘɪɴɢ: `{ms}` ᴍs \n ༝ ᴠᴇʀsɪᴏɴ: `{TheSpamX.versions['SpamX']}`")
+        await pong_msg.edit_text(f"⌾ {TheSpamX.pingMsg} ⌾ \n\n ༝ ᴘɪɴɢ: `{ms}` ᴍs \n ༝ ᴠᴇʀsɪᴏɴ: `{TheSpamX.versions['╚»𝗖𝗿𝗲𝗮𝘁𝗼𝗿 𝐈𝐓𝐀𝐂𝐇𝐈«╝']}`")
         await pong_msg.delete()
 
 @Client.on_message(

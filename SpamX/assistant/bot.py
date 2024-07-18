@@ -33,7 +33,7 @@ async def start_bot(_, message: Message):
             if await TheSpamX.sudo.sudoFilter(message, 1):
                 return
             await message.reply(
-                "__Click below button to reboot the SpamX!__",
+                "__Click below button to reboot the Vegito!__",
                 reply_markup=reboot_button,
             )
             return
@@ -92,7 +92,7 @@ async def pinging(_, message: Message):
     start = datetime.datetime.now()
     #u_time = int(int(time.time()) - int(TheSpamX.startTime))
     #uptime = await TheSpamX.functions.get_time(time=u_time)
-    pong_msg = await message.reply("**Pong !!**")
+    pong_msg = await message.reply("**𝗗𝗶𝗻𝗴 !!**")
     end = datetime.datetime.now()
     ms = (end-start).microseconds / 1000
     try:

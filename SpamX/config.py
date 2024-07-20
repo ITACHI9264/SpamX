@@ -16,7 +16,7 @@ if API_HASH is None:
     LOGS.error("Please set your API_HASH!")
     quit(1)
 
-ASSISTANT_TOKEN = str(env("7060228404:AAHI47KkZzOMmqpL5EOADtRT6SQn0hJLa-Y", None))
+ASSISTANT_TOKEN = str(env("ASSISTANT_TOKEN", None))
 if ASSISTANT_TOKEN is None:
     LOGS.error("Please set your ASSISTANT_TOKEN!")
     quit(1)
@@ -26,12 +26,12 @@ if OWNER_ID is None:
     LOGS.error("Please set your OWNER_ID!")
     quit(1)
 
-DATABASE_URL = str(env("mongodb+srv://itachi8806:itachi89004@cluster0.624phdi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0", None))
+DATABASE_URL = str(env("DATABASE_URL", None))
 if DATABASE_URL is None:
     LOGS.error("Please set your DATABASE_URL!")
     quit(1)
 
-LOGGER_ID = str(env("1002142199115", None))
+LOGGER_ID = str(env("LOGGER_ID", None))
 if LOGGER_ID is None:
     LOGS.error("Please set your LOGGER_ID! (make a private group add assistant in that group & promote as Admin!)")
     quit(1)
